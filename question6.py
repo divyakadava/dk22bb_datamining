@@ -16,7 +16,7 @@ def question6_2():
 def question6_3():
     answer = {
         'equal_width': ['Change',2], # doubt with 5th point
-        'equal_frequency': ['Change',9 ]
+        'equal_frequency': ['No Change',9 ]
     }
     return answer
 
