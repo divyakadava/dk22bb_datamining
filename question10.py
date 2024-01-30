@@ -7,19 +7,19 @@ def question10_2():
     return answer
 
 def question10_3():
-    answer=True #c #check out this
+    answer=False
     return answer
 
 def question10_4():
-    answer=False #d
+    answer=True 
     return answer
 
 def question10_5():
-    answer=True #e
+    answer=False
     return answer
 
 def question10_6():
-    answer=False  # check out this
+    answer=False  # 
     return answer #f
 
 def question10_7():
@@ -27,11 +27,11 @@ def question10_7():
     return answer #g
 
 def question10_8():
-    answer=True
+    answer=False
     return answer   #h
 
 def question10_9():
-    answer=False  # check out this
+    answer=False  # 
     return answer   #i
 
 def question10_10():
